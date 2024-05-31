@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'BurhanuddinShakir', // Your GitHub org/user name. (This is the only required config)
+    username: 'Burhanuddin Shakir', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Ariful Alam',
-    description: '',
+    description: 'Welcome to my Portfolio!',
     imageURL: '',
   },
   social: {
@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'burhanuddinshakir.54@gmail.com',
   },
   resume: {
     fileUrl:
@@ -124,16 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'International University of Applied Sciences',
+      degree: 'BS.c Software Development',
+      from: '2024',
+      to: 'present',
     },
   ],
   publications: [
@@ -171,11 +165,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
