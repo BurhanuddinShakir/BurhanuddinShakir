@@ -57,9 +57,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'burhanuddinshakir',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,12 +69,12 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
     email: 'burhanuddinshakir.54@gmail.com',
   },
@@ -100,7 +100,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
+      company: '',
       position: 'Position',
       from: 'September 2021',
       to: 'Present',
@@ -217,13 +217,13 @@ const CONFIG = {
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
+      primary: '#00A4E9',
+      secondary: '#6EB8F2',
+      accent: '#00A4E9',
       neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
+      'base-100': '#E9FCFF',
+      '--rounded-box': '2rem',
+      '--rounded-btn': '2rem',
     },
   },
 
