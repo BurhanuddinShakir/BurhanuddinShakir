@@ -1,5 +1,3 @@
-hey there!
-
 ![Burhanuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurhanuddinShakir&hide_border=True&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanuddinShakir&hide_border=True&show_icons=true&theme=transparent&layout=donut-vertical)](https://github.com/BurhanuddinShakir/BurhanuddinShakir)
 
